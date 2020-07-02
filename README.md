@@ -1,2 +1,2 @@
 # test-prototype
-for creating and testing pages
+For creating and testing pages
