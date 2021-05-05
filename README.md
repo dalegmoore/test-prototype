@@ -1,2 +1,2 @@
 # test-prototype
-For creating and testing pages.
+## Use for creating and testing pages for the Register for VAT prototype
